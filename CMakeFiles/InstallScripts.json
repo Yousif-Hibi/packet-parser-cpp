@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/sandov/Desktop/packet-parser/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
