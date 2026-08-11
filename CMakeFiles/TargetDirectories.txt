@@ -1,3 +1,0 @@
-/home/sandov/Desktop/packet-parser/build/CMakeFiles/my_app.dir
-/home/sandov/Desktop/packet-parser/build/CMakeFiles/edit_cache.dir
-/home/sandov/Desktop/packet-parser/build/CMakeFiles/rebuild_cache.dir
